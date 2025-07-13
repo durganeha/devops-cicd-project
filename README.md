@@ -4,7 +4,7 @@
 -The GitHub repository is integrated with GitHub Actions, which automatically triggers workflows upon code push events.
 -Once the pipeline passes all checks, the application is automatically deployed to the Render platform, a cloud-based hosting solution that supports Dockerized deployments. 
 
-##Tech Stack
+## Tech Stack
 HTML - Frontend
 Python & Flask - Backend             
 Git & GitHub - Integration                                        
